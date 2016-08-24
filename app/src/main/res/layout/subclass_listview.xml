@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    tools:listheader="@layout/preview_item"
     tools:listitem="@layout/preview_item">
-    <!-- AS 2.2 Renders this as a plain ViewGroup container, with no list items -->
+    <!-- AS 2.2 Renders this as a plain ViewGroup container, with no list items at all -->
 </com.meetmecorp.listpreview.SubListView>

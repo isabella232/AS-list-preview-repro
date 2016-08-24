@@ -7,4 +7,5 @@
     tools:listitem="@layout/preview_item">
     <!-- AS 2.2 Renders this with "Item N / Sub Item N" items still;
          NOT using the tools:listitem layout as the list item. -->
+    <!-- Also listheader is completely ignored -->
 </ListView>
