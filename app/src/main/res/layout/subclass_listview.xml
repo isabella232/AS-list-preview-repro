@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.meetmecorp.listpreview.SubListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:listitem="@layout/preview_item">
+    <!-- AS 2.2 Renders this as a plain ViewGroup container, with no list items -->
+</com.meetmecorp.listpreview.SubListView>
